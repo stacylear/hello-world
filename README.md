@@ -1,2 +1,1 @@
-# hello-world
-Hello World GitHub quickstart exercise
+I am a curious pickle.
